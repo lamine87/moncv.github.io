@@ -3,10 +3,28 @@ body{
 }
 .row{
     background-color: rgb(144, 142, 142);
+    border-radius: 10px;
 }
-.row2{
-    background-color: rgb(240, 240, 240);
+
+#compo {
+    background-color: rgba(240, 240, 240, 0.802);
+    border-radius: 10px;
+    margin-top: 5px;
+    padding: 5px;
 }
 h5{
     color: rgb(193, 35, 35);
+}
+h6{
+    font-size: 20px;
+}
+
+
+.divers{
+    color: rgb(193, 35, 35);
+    font-weight: bold;
+}
+
+.col-md-4{
+    border-right: solid 1px;
 }
