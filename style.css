@@ -1,3 +1,12 @@
 body{
-    background-color: blue;
+    background-color: rgb(210, 210, 213);
+}
+.row{
+    background-color: rgb(144, 142, 142);
+}
+.row2{
+    background-color: rgb(240, 240, 240);
+}
+h5{
+    color: rgb(193, 35, 35);
 }
