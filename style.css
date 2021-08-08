@@ -1,8 +1,8 @@
 body{
-    background-color: rgb(210, 210, 213);
+    background-color: rgb(229, 229, 231);
 }
 .row{
-    background-color: rgb(144, 142, 142);
+    background-color: rgb(179, 179, 179);
     border-radius: 10px;
 }
 
@@ -12,8 +12,15 @@ body{
     margin-top: 5px;
     padding: 5px;
 }
+
+h2{
+    text-align: center;
+}
+
 h5{
     color: rgb(193, 35, 35);
+    font-weight: bold;
+    
 }
 h6{
     font-size: 20px;
@@ -22,6 +29,9 @@ h6{
 
 .divers{
     color: rgb(193, 35, 35);
+    font-weight: bold;
+}
+.gras{
     font-weight: bold;
 }
 
